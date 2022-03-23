@@ -1,0 +1,17 @@
+{
+    "job_class": "PipelineJob",
+    "job_name": "Begin_Task",
+    "note": "",
+    "parameters": {
+        "enabled": true,
+        "include_external_urls": true,
+        "job_type": "standard",
+        "llfeed_token": "FqYnTjcR7VdtDoiPZWJwSvNodb4LTbTR",
+        "pipeline_parameters": {},
+        "pipeline_path": "Begin",
+        "snaplex_path": "cloud-dev"
+    },
+    "schedule": {},
+    "trigger": {},
+    "trigger_type": "ScheduleTrigger"
+}
